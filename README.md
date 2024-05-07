@@ -1,5 +1,5 @@
 # Shape Asset Pack
-![](https://github.com/1poss/ShapeAssetPack/blob/main/Assets/Resources_Sample/cover.jpg)
+![](https://github.com/onovich/ShapeAssetPack/blob/main/Assets/Resources_Sample/cover.jpg)
 
 极简风几何图形库，适用于 Demo，配合 URP Post Process Effects 食用效果更佳。
 
